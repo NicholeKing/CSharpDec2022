@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "V5vyf6ZFL/if3ky1QGCXfnmFFMPmgrhH7Xe7UGP4/RQ=",
+  "Source": "FirstWeb",
+  "BasePath": "_content/FirstWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FirstWeb\\wwwroot",
+      "Source": "FirstWeb",
+      "ContentRoot": "C:\\Users\\nicho\\Desktop\\CodingDojo\\Instruction\\ClassMaterial\\CSharpDec2022\\Day03\\FirstWeb\\wwwroot\\",
+      "BasePath": "_content/FirstWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nicho\\Desktop\\CodingDojo\\Instruction\\ClassMaterial\\CSharpDec2022\\Day03\\FirstWeb\\wwwroot\\css\\style.css",
+      "SourceId": "FirstWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nicho\\Desktop\\CodingDojo\\Instruction\\ClassMaterial\\CSharpDec2022\\Day03\\FirstWeb\\wwwroot\\",
+      "BasePath": "_content/FirstWeb",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FirstWeb
+build_property.RootNamespace = FirstWeb
+build_property.ProjectDir = C:\Users\nicho\Desktop\CodingDojo\Instruction\ClassMaterial\CSharpDec2022\Day03\FirstWeb\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nicho\Desktop\CodingDojo\Instruction\ClassMaterial\CSharpDec2022\Day03\FirstWeb
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nicho/Desktop/CodingDojo/Instruction/ClassMaterial/CSharpDec2022/Day03/FirstWeb/Views/Hello/AUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cQVVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nicho/Desktop/CodingDojo/Instruction/ClassMaterial/CSharpDec2022/Day03/FirstWeb/Views/Hello/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGVsbG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 

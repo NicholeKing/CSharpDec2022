@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <h1>Hello, @(ViewBag.Name + ViewBag.Number), from the View file!</h1>
+    @{
+        for(int i = 0; i < ViewBag.Number; i++)
+        {
+            <p>The number is @i - this is a number</p>
+        }
+    }
+
+    <form action="process" method="post">
+        <label for="FavoriteAnimal">Tell me your favorite animal</label>
+        <input type="text" name="FavoriteAnimal">
+        <span>@{
+            if(ViewBag.Error == null)
+            {
+                <p></p>
+            } else {
+                <p>Dogs are cool but pick something else</p>
+                <img class="img" src="~/images/puppy.jpg" alt="puppy">
+            }
+            }</span>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
