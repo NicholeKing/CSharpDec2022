@@ -1,0 +1,6 @@
+@model List<Pet>
+<h1>These are all the pets!</h1>
+@foreach(Pet p in Model)
+{
+    <p>@p.Name the @p.Age year old @p.Species</p>
+}
